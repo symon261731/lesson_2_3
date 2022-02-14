@@ -1,0 +1,62 @@
+
+.header  {
+    font-size: 20px;
+    color: black;
+}
+
+h1 {
+    color: cadetblue;
+}
+.text.main{
+    font-size: larger ;
+    color: aliceblue;
+}
+
+i{
+    color:cadetblue;
+}
+#OWD{
+    font-size: medium;
+    color: black;
+}
+.start{
+    font-size: 25px;
+    color: darkblue;
+}
+
+.text .first{
+    font-size: larger;
+
+
+}
+
+#AOWD{
+    font-size:larger;
+    color: black;
+}
+.text .second{
+    color: chartreuse;
+}
+#RD{
+
+    font-size: medium;
+    color: black;
+}
+.text .third{
+color: darkorchid;
+}
+
+p{
+    font-size: larger;
+    color: chartreuse;
+
+}
+
+*{
+    color:brown;
+    background-color:steelblue;
+}
+
+.text{ 
+    color: aliceblue;
+}
